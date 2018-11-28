@@ -1,4 +1,4 @@
-echo "Hola Acciona"
-echo "todo correcto"
-echo "Provoco un fallo"
+echo "Hola Acciona como estais compañeros del metal"
+echo "Javier Herranz"
+
 exit 1
